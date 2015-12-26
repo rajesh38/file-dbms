@@ -1,0 +1,3 @@
+DEFAULT->a->10
+FK->a->d1.t1.a
+NOT_NULL->a->true

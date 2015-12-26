@@ -1,0 +1,6 @@
+NOT_NULL->d->true
+DEFAULT->d->3
+DEFAULT->f->57
+NOT_NULL->e->true
+DEFAULT->e->
+FK->d->d2.t1.a

@@ -1,0 +1,3 @@
+FK->id->d1.t2.b
+NOT_NULL->id->true
+DEFAULT->id->
